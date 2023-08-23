@@ -1,1 +1,1 @@
-Personal Website
+Computer Science student at George Mason University 
