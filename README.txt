@@ -1,2 +1,1 @@
-- Computer Science student at George Mason University 
-- My portfolio includes additional projects housed in a private repository. Please don't hesitate to ask if you'd like to take a peek
+Personal Portfolio Website
