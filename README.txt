@@ -5,6 +5,7 @@ About Me
 🤔   I’m looking to collaborate on anything open-source to expand my education and career in tech!
 📫   email me at mansoorsamim10@gmail.com
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠  Tech Stack
 
@@ -24,5 +25,3 @@ code: ["Python", "Java", "C", "C#", "ASP.Net", "Javascript", "HTML", "CSS"],
         databases: ["Microsoft SQL Server Management Studio", "MySql", "Oracle", "SAP"],
     },
 };
-
-
