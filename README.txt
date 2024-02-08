@@ -1,5 +1,6 @@
 About Me
 --------
+
 🎓   Studying Computer Science at George Mason University.
 💼   Currently a Software Engineer Intern at Kerecis
 🌱   Learning more about Cloud Architecture, Full Stack Development and Databases.
@@ -8,7 +9,8 @@ About Me
 
 
 🛠  Tech Stack
--------------
+--------------
+
 code: ["Python", "Java", "C", "C#", "ASP.Net", "Javascript", "HTML", "CSS"],
     technologies: {
         frontEnd: {
