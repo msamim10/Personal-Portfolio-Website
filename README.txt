@@ -1,4 +1,6 @@
-    code: ["Python", "Java", "C", "C#", "ASP.Net", "Javascript", "HTML", "CSS"],
+🛠  Tech Stack
+
+code: ["Python", "Java", "C", "C#", "ASP.Net", "Javascript", "HTML", "CSS"],
     technologies: {
         frontEnd: {
             js: ["React"],
@@ -21,4 +23,4 @@ About Me
 💼   Currently a Software Engineer Intern at Kerecis
 🌱   Learning more about Cloud Architecture, Full Stack Development and Databases.
 🤔   I’m looking to collaborate on anything open-source to expand my education and career in tech!
-📫   email me at mansoorsamim10@gmail..com
+📫   email me at mansoorsamim10@gmail.com
